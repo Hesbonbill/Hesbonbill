@@ -2,7 +2,8 @@
 - 👀 I’m interested in Computer and technology
 - 🌱 I’m currently learning Software Engineering
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ...billhesbon@gmail.com
+- 
 
 <!---
 Hesbonbill/Hesbonbill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
